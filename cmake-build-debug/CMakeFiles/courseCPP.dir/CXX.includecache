@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/YandexDisk/university/Projects/CLion/courseCPP/main.cpp
+iostream
+-
+algorithm
+-
+random
+-
+cstdlib
+-
+

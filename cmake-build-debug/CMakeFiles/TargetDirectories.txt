@@ -1,0 +1,3 @@
+C:/YandexDisk/university/Projects/CLion/courseCPP/cmake-build-debug/CMakeFiles/courseCPP.dir
+C:/YandexDisk/university/Projects/CLion/courseCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/YandexDisk/university/Projects/CLion/courseCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
